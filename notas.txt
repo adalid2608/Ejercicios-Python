@@ -1,0 +1,29 @@
+abs(x) Proporciona el valor absoluto de x
+divmod(a,b) Para dos numeros enteros a y b retorna el cociente y el resto de la division entera entre a y b
+float(x) Proporciona la expresion decimal de x
+len(s) Retorna el tamaño (numero de elementos) de una lista u objeto s
+min(a,b...) y max(a,b...) Retorna el maximo y el minimo de una lista a,b...
+pow(x,y) Se trata de x^y equivale a x**y
+round(a,n) Proporciona a con n cifras decimales
+sum(lista) Suma los elementos de una lista
+
+Respecto a las constantes, tenemos las siguientes:
+
+True y False Son constantes de verdadero y falso
+None Se usa para indicar que ausencia un valor
+
+Las operaciones logicas son las siguientes:
+
+x or y
+a and y
+not x
+
+Las operaciones de comparacion son las siguientes:
+
+x < y (x menor que y)
+x > y (x mayor que y)
+x <= y (x menor o igual que y)
+x >= y (x mayor o igual que y)
+x == y (x igual a y)
+x != y (x diferente de y)
+
