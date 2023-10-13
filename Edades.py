@@ -6,7 +6,7 @@ Mayores = []
 Menores = []
 
 # Solicitar datos
-for j in range(10):    
+for j in range(4):    
     nom = input("Ingresa tu nombre \n")
     edad = int(input(f"Ingresa tu edad {nom}\n"))
     if edad>=18:
